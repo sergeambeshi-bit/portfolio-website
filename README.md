@@ -1,2 +1,12 @@
-# portfolio-website
-Personal portfolio website showcasing projects, skills, and contact info. Built with responsive design and SEO-friendly structure.
+# Portfolio Website
+Showcase of projects, skills, and contact information.
+
+## Features
+- About page
+- Projects showcase
+- Contact form
+- Responsive & SEO-friendly
+
+## Tech Stack
+- HTML, CSS, JavaScript
+- WordPress / React (optional)
