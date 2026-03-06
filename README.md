@@ -1,5 +1,12 @@
+
+---
+
+### **5. portfolio-website/README.md**
+
+```markdown
 # Portfolio Website
-Showcase of projects, skills, and contact information.
+
+Personal portfolio website showcasing skills, projects, and contact information. Built with responsive design and SEO-friendly structure.
 
 ## Features
 - About page
@@ -9,4 +16,10 @@ Showcase of projects, skills, and contact information.
 
 ## Tech Stack
 - HTML, CSS, JavaScript
-- WordPress / React (optional)
+- Optional: React or WordPress
+
+## Usage
+```bash
+git clone https://github.com/sergeambeshi-bit/portfolio-website.git
+cd portfolio-website
+# Open index.html in browser or run dev server
